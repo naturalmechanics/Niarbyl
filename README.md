@@ -1,7 +1,7 @@
 Niarbyl Data Handling System
 ============================
 
-Investigations of the Atmosphere using Cansats
+Using the Scientific Data Exchange Notation
 
 
 1. Source / Inspiration of Codes
